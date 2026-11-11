@@ -1,0 +1,106 @@
+body{
+
+}
+.oma{
+    display: flex;
+    gap: 30px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.sn{
+    display: flex;
+    padding-left: 150px;
+}
+.gra{
+    color: hsl(219, 9%, 45%);
+}
+.ima{
+    padding-left: 300px;
+    padding-top: 20px;
+    
+}
+.ava{
+    width: 40px;
+    padding-left: 30px;
+
+}
+.xazi{
+    border: solid 1px hsl(220, 14%, 75%);
+}
+.fexs{
+    width: 450px;
+    border-radius: 15px;
+}
+.pata{
+    width: 100px;
+    border-radius: 15px;
+    border-color: red;
+}
+.ahaa{
+    display: flex;
+    gap: 20px;
+}
+.pirveli{
+    padding-left: 100px;
+}
+.proc{
+    width: 50px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.daay{
+    display: flex;
+    gap: 20px;
+}
+.forb{
+    padding-top: 25px;
+}
+.grah{
+    color: hsl(219, 9%, 45%);
+    font-size: 18px;
+}
+.pliu{
+    display: flex;
+    gap: 30px;
+    width: 100px;
+    background-color: gainsboro;
+    border-radius: 15px;
+}
+.minu{
+    color: orange;
+    font-weight: bold;
+}
+.pla{
+    color: orange;
+    font-weight: bold;
+
+}
+.rokna{
+    width: 190px;
+    height: 45px;
+    background-color: orange;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 15px;
+}
+.chalic{
+    display: flex;
+    gap: 20px;
+}
+.meore{
+    width: 370px;
+}
+.sne{
+    color:hsl(220, 14%, 75%);
+}
+.udidesi{
+    display: flex;
+    gap: 100px;
+    padding-left: 150px;
+}

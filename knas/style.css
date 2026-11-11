@@ -1,0 +1,88 @@
+body{
+ background-color: whitesmoke;   
+ justify-items: center;
+}
+.pas{
+    width: 290px;
+    height: 30px;
+    border-radius: 7px;
+    
+}
+.pirveli{
+    width: 95px;
+    background-color: red;
+    height: 6px;
+    border-radius: 10px;
+    font-size: 1px;
+
+}
+.amare{
+    padding-top: 10px;
+}
+.meore{
+    width: 95px;
+    background-color: gainsboro;
+    height: 6px;
+    border-radius: 10px;
+    font-size: 1px;
+}
+.kum{
+    display: flex;
+    gap: 5px;
+    padding-left: 40px;
+}
+.amit{
+    padding-top: 10px;
+}
+.cur{
+    font-weight: bold;
+}
+.cha{
+    font-weight: bold;
+}
+.upd{
+    color: gainsboro;
+}
+.wea{
+    color: gainsboro;
+}
+.at{
+    color: gainsboro;
+}
+.dis{
+    width: 150px;
+    border: none;
+    border-radius: 7px;
+    height: 30px;
+    font-weight: bold;
+}
+.apl{
+    width: 150px;
+    border: none;
+    border-radius: 7px;
+    height: 30px;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+}
+.ro{
+    display: flex;
+    gap: 10px;
+    padding-left: 40px;
+}
+.deda{
+    width: 400px;
+    background-color: white;
+    height: 600px;
+    border-radius: 20px;
+}
+.stuk{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.akara{
+    padding-left: 40px;
+}
+.texto{
+    padding-left: 40px;
+}

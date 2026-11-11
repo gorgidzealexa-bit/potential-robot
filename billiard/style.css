@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+}
+.mwvane{
+    width: 700px;
+    background-color: green;
+    height: 494px;
+}
+.uc{
+    font-size: 1px;
+}
+.burt{
+    background-color: red;
+    width: 30px ;
+    height: 30px;
+    border-radius: 50px;
+}
+.daiw{
+    padding-left: 300px;
+    padding-top: 200px;
+    
+}

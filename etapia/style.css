@@ -1,0 +1,114 @@
+body{
+background-color: lightslategrey;
+}
+.app{
+    padding-left: 400px;
+    padding-top: 40px;
+    font-size: 40px;
+}
+.ui{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+.ora{
+    color: orange;
+}
+.mox{
+    border: none;
+    height: 30px;
+    width: 270px;
+    background-color: lightgray;
+    color: black;
+    border-radius: 6px;
+}
+.pa{
+    border: none;
+    height: 30px;
+    width: 270px;
+    background-color: #FFCBC4;
+    color: black;
+}
+.red{
+    font-size: 14px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    color: red;
+}
+.logi{
+    border: none;
+    height: 30px;
+    width: 250px;
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.buto{
+    padding-left: 10px;
+}
+.ema{
+    font-size: 15px;
+    color: gray;
+}
+.for{
+    font-size: 17px;
+    padding-left: 65px
+}
+.pirveli{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+}
+.judg{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.paro{
+    padding-left: 10px;
+}
+.samia{
+    font-size: 11px;
+    background-color: lightslategray;
+    width: 120px;
+    border-radius: 15px;
+    color: greenyellow;
+}
+.mwa{
+    padding-left: 10px;
+}
+.dong{
+    font-size: 11px;
+    background-color: lightslategray;
+    width: 120px;
+    border-radius: 20px;
+    color: greenyellow;
+    padding-left: 10px;
+}
+.meore{
+    background-color: white;
+    width: 300px;
+    border-radius: 15px;
+}
+.aao{
+    font-size: 11px;
+    background-color: lightslategray;
+    width: 75px;
+    border-radius: 20px;
+    color: greenyellow;
+    
+}
+.roda{
+    display: flex;
+    gap: 20px;
+}
+.dedadivi{
+    display: flex;
+    gap: 70px;
+    padding-left: 320px;
+}

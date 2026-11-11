@@ -1,0 +1,130 @@
+body{
+    background-color: hsl(227, 75%, 14%);
+}
+.jer{
+    width: 900px;
+    background-color: hsl(226, 25%, 17%);
+    border-radius: 10px;
+    height: 50px;
+   
+}
+.sun{
+    padding-left: 670px;
+    padding-bottom: 8px;
+}
+.araf{
+    padding-left: 250px;
+    padding-top: 50px;
+}
+.whii{
+    color: white;
+    font-weight: bolder;
+}
+.red{
+    height: 40px;
+    width: 60px;
+    border-radius: 30px;
+    border: none;
+    background-color: red;
+    color: black;
+    font-weight: bolder;
+}
+.esea{
+    height: 40px;
+    width: 80px;
+    border-radius: 30px;
+    border: none;
+    background-color: hsl(226, 25%, 17%);
+    color: white;
+    font-weight: bolder;
+}
+.but{
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+}
+.pga{
+    display: flex;
+    gap: 450px;
+}
+.ro{
+    padding-left: 250px;
+}
+.sulun{
+    display: flex;
+    gap: 20px;
+}
+.pata{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.nacr{
+    color: hsl(226, 11%, 37%);
+}
+.ropat{
+    width: 200px;
+}
+.remo{
+    width: 80px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: hsl(226, 25%, 17%);
+    color: white;
+    font-weight: bold;
+}
+.klik{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+
+
+}
+.tolo{
+    width: 40px;
+    background-color: grey;
+    border-radius: 10px;
+    text-align: center;
+}
+.samoel{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+}
+.esrass{
+    padding-right: 14px;
+}
+.amk{
+    width: 40px;
+    background-color: red;
+    text-align: center;
+    border-radius: 10px;
+}
+.esras{
+    padding-left: 19px;
+    padding-top: 2px;
+}
+.baxba{
+    display: flex;
+    gap: 140px;
+}
+.goun{
+    padding-top: 10px;
+}
+.mtavaria{
+    width: 300px;
+    background-color: hsl(225, 23%, 24%);
+    border-radius: 15px;
+}
+.nas{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.padd{
+    padding-left: 250px;
+}
+.marjv{
+    display: flex;
+    gap: 10px;
+}
